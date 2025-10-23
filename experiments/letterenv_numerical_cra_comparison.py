@@ -1,6 +1,6 @@
 """
 
-Code for the Numerical Experiment. Needs to be run with letter_env_spec_numerical.pl monitor.
+Code for the Numerical comparison with CRA. Needs to be run with letter_env_spec_numerical.pl monitor.
 
 """
 
